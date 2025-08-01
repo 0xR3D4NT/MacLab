@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>System Logging #1</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.system.logging.9B938D9D-6B6C-4D8F-B495-AB1DB40A2C6F</string>
+			<key>PayloadType</key>
+			<string>com.apple.system.logging</string>
+			<key>PayloadUUID</key>
+			<string>9B938D9D-6B6C-4D8F-B495-AB1DB40A2C6F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>System</key>
+			<dict>
+				<key>Enable-Private-Data</key>
+				<true/>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>enable-private-data-view</string>
+	<key>PayloadDisplayName</key>
+	<string>enable-private-data-view</string>
+	<key>PayloadIdentifier</key>
+	<string>Danish-vms-Virtual-Machine.7C82F76F-9B16-41E5-980D-C889466FB2E8</string>
+	<key>PayloadOrganization</key>
+	<string>danish-lab-setup</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>7C82F76F-9B16-41E5-980D-C889466FB2E8</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2026-03-25T15:37:24Z</date>
+	<key>TargetDeviceType</key>
+	<integer>5</integer>
+</dict>
+</plist>
